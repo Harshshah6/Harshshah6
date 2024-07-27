@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working on **AOSP Custom ROMs**<br>👯 I’m looking to collaborate on **Open source Android Application**<br>📫 How to reach me <a href="https://tg.me/legendary_streamer_official"><u><b>Telegram</b></u></a>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshshah6&label=Profile%20views&color=0e75b6&style=flat" alt="harshshah6" /> </p>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/legendary_streamer_official) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@legendarystreamer) <a href='https://t.me/legendary_streamer_official' target="_blank"><img alt='Telegram' src='https://img.shields.io/badge/Telegram-100000?style=flat&logo=Telegram&logoColor=white&labelColor=24A1DE&color=00ACFF'/></a>
@@ -12,4 +14,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshshah6&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshshah6&label=Profile%20views&color=0e75b6&style=flat" alt="harshshah6" /> </p>
