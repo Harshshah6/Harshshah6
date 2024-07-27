@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Open source Android Application**
 
-- 📫 How to reach me **telegram:- legendary_streamer_official**
+- 📫 TO reach me <a href="https://tg.me/legendary_streamer_official"><u>** Telegram **</u></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
