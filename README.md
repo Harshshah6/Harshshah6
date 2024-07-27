@@ -20,6 +20,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshshah6&show_icons=true&theme=dracula&locale=en&layout=compact" alt="harshshah6" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshshah6&show_icons=true&theme=dracula&locale=en" alt="harshshah6" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshshah6&theme=dark" alt="harshshah6" /></p>
