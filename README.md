@@ -1,6 +1,6 @@
 # 💫 About Me:
 ![](https://readme-typing-svg.herokuapp.com/?lines=Hello%2C+I+am+Harsh+Shah)<br>
-👯 I’m looking to collaborate on **Open source Android Application**<br>📫 How to reach me <a href="https://t.me/legendary_streamer_official"><u><b>Telegram</b></u></a>
+👯 I’m looking to collaborate on **Open source Android Application**<br>📫 Reach me @<a href="https://t.me/legendary_streamer_official"><u><b>Telegram</b></u></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshshah6&label=Profile%20views&color=0e75b6&style=flat" alt="harshshah6" /> </p>
 
