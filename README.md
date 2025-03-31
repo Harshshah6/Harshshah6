@@ -8,6 +8,8 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/harsh_.s._shah/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@legendarystreamer) <a href='https://t.me/legendary_streamer_official' target="_blank"><img alt='Telegram' src='https://img.shields.io/badge/Telegram-100000?style=flat&logo=Telegram&logoColor=white&labelColor=24A1DE&color=00ACFF'/></a>
 
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/HarshShah06)
+
 ## Take a look at my portfolio
 [Visit Portfolio](https://harsh-sandeep-shah.vercel.app)
 
